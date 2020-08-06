@@ -1,3 +1,2 @@
-I Iove you Git
-Maybe you will hurt me thounders times.
-Now I need to test you,,,,,,`
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
