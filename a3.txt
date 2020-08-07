@@ -1,5 +1,0 @@
-Git is a free software . 
-Java maybe is difficult to learn.
-But I am not abandon it .
-My stupid Boss still prefers svn.
-I add an tage.
